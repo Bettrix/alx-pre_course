@@ -1,2 +1,1 @@
-My first readme
-Now updated
+This is a repository for my first project with github
